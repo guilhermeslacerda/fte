@@ -1,0 +1,9 @@
+FEATURE TOGGLE EXAMPLES
+=======================
+
+Created by Guilherme Lacerda (guilhermeslacerda@gmail.com)
+http://codingbyexample.org
+
+This project is part of presentation about Trunk Based Development.
+On this code, there are two examples of feature toggles using design patterns (Strategy and Factory), including classes diagrams.
+For more information, send messages to me, ok? :))
